@@ -1,0 +1,17 @@
+body {
+    font-family: Montserrat;
+    background: #f06d06;
+    color: white;
+  }
+  img{
+  display:block;
+  margin:auto;
+  }
+p{
+  color: black;
+  font-weight: bold;
+}
+ul{
+  color: black;
+  font-weight: bold;
+}
